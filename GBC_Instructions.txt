@@ -1,0 +1,11 @@
+Welcome to David Wisnosky's GradeBook Calculator
+
+A few tips to get started:
+1) You can refer to these instructions at any time by clicking the "Instructions" button.
+2) The "Add Class" button will add a class. This class will consist of: a class name you may enter, ten entries for category names, ten entries for category values, and ten entries for you average in a specific category.
+(Note: all numerical entries should be done in the form of a decimal, i.e. a 90% would be .90)
+3) You may have a maximum of nine classes.
+4) The "Remove Class" button will remove the most recently created class. (You must have have one or more classes at the time of use)
+5) The "Calculate Average" button will calculate your average in each class and display the result underneath the class cell. (You must have have one or more classes at the time of use)
+(For any cells that you do not wish to use leave them blank.)
+Enjoy!
